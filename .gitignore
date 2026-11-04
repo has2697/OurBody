@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# build output
+/dist/
+
+# generated Android project (created in CI)
+android/
+
+# misc
+.DS_Store
+*.pem
+.env*
+npm-debug.log*
+*.tsbuildinfo
